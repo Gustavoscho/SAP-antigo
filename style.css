@@ -1,6 +1,19 @@
-
-
-.navbar{
-    background-color: rgb(141, 137, 137);
-     
+body{
+    margin:0px
+}
+.flex{
+    display:flex; 
+}
+th, td{
+    margin: 0px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding:5px
+    
+}
+#nav{
+    background-color: rgb(202, 201, 201);
+    margin:0px;
+    border:0px;
 }
